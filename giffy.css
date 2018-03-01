@@ -1,0 +1,65 @@
+.animal-btn {
+	margin: 10px 10px 10px 0px;
+	padding: 14px 20px;
+	background-color: #000;
+	color: #fff;
+	border-radius: 10px;
+	border: none;
+}
+
+.animal-btn:hover {
+	background-color: #ff0099;
+}
+
+.leftSide {
+	 position: sticky;
+	 top: -1px;
+	 background-color: #f2f7f8;
+	z-index: 1;
+}
+
+#animals {
+	position: relative;
+	float: right;
+	background-color: #e4edef;
+}
+
+img {
+	display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+	color: #9bafb4;
+	margin-top: 30px;
+}
+
+body {
+	background-color: #f2f7f8;
+}
+
+#animal-form {
+	margin: 20px 0px 20px 20px;
+}
+
+#addAnimal {
+	margin: 10px 0px 10px -4px;
+	padding: 14px 16px;
+	background-color: #000;
+	color: #fff;
+	border-radius: 0px 10px 10px 0px;
+	border: none;
+}
+
+#addAnimal:hover {
+	background-color: #ff0096;
+}
+
+#animal-input {
+	height: 49px;
+	border-radius: 10px 0px 0px 10px;
+	margin-left: -6px;
+	padding-left: 16px;
+	padding-right: 10px;
+}
